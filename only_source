@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+printf "\n%s %s\n\n" "I'm not executable. Source me!" >&2
+exit 1
